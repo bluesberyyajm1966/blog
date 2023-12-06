@@ -19,5 +19,5 @@
     box-shadow: 2px 2px 5px hsla(0, 0%. 0%, 0.796)
 }
     .dropdown:hover .content{
-        displau: block;
+        display: block;
     }
